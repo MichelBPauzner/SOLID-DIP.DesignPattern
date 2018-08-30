@@ -1,0 +1,6 @@
+C:\Users\miche\Documents\Visual Studio 2017\Projects\MichelPauzner.SOLID.DIP.DesignPattern\DIP.Violacao\bin\Debug\DIP.Violacao.exe.config
+C:\Users\miche\Documents\Visual Studio 2017\Projects\MichelPauzner.SOLID.DIP.DesignPattern\DIP.Violacao\bin\Debug\DIP.Violacao.exe
+C:\Users\miche\Documents\Visual Studio 2017\Projects\MichelPauzner.SOLID.DIP.DesignPattern\DIP.Violacao\bin\Debug\DIP.Violacao.pdb
+C:\Users\miche\Documents\Visual Studio 2017\Projects\MichelPauzner.SOLID.DIP.DesignPattern\DIP.Violacao\obj\Debug\DIP.Violacao.csproj.CoreCompileInputs.cache
+C:\Users\miche\Documents\Visual Studio 2017\Projects\MichelPauzner.SOLID.DIP.DesignPattern\DIP.Violacao\obj\Debug\DIP.Violacao.exe
+C:\Users\miche\Documents\Visual Studio 2017\Projects\MichelPauzner.SOLID.DIP.DesignPattern\DIP.Violacao\obj\Debug\DIP.Violacao.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIP.Violacao", "DIP.Violacao\DIP.Violacao.csproj", "{B2D52B73-8692-42DA-B3C2-187C00D772C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIP.Solucao", "DIP.Solucao\DIP.Solucao.csproj", "{A973FDD5-2AE3-49D8-9365-C6B924C6161D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2D52B73-8692-42DA-B3C2-187C00D772C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2D52B73-8692-42DA-B3C2-187C00D772C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2D52B73-8692-42DA-B3C2-187C00D772C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2D52B73-8692-42DA-B3C2-187C00D772C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A973FDD5-2AE3-49D8-9365-C6B924C6161D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A973FDD5-2AE3-49D8-9365-C6B924C6161D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A973FDD5-2AE3-49D8-9365-C6B924C6161D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A973FDD5-2AE3-49D8-9365-C6B924C6161D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8ECBD2E6-65A5-41D4-9B2A-05CD645D2B41}
+	EndGlobalSection
+EndGlobal
